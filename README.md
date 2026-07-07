@@ -4,7 +4,7 @@ KHUDA 9기 ML 기초 세션 토이 프로젝트
 # 발표 자료
 KHUDA_ML_PROJECT.pdf
 
-#vscode 환경 실행시
+# vscode 환경 실행시
 
 ## 1️ 가상환경 생성
 python -m venv venv / py -m venv venv
